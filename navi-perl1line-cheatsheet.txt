@@ -1,4 +1,14 @@
 % perl, FILE SPACING 
+@ perl, common
+; cheatsheet of Perl Oneliners
+; for navi -  interactive cheatsheet tool for the command-line 
+; based on P.Krumins' perl1line.txt - "collection of handy perl one-liner scripts"
+; 
+; https://github.com/pkrumins/perl1line.txt
+; https://github.com/chubin/cheat.sheets
+; https://github.com/denisidoro/navi
+; knb 20220412
+; 
 
 # Double space a file
 perl -pe '$\="\n"'
