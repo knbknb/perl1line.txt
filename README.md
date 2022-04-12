@@ -18,7 +18,7 @@ See [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheats
 
 My customizations of `perl1line.txt` are in the branch `navi-cheatsheet`.
 
-There I have renamed `perl1line.txt` to `navi-perl1line-cheatsheet.txt` and added some comments. Some redundant or alternative Oneliners might have been removed.
+There I have renamed `perl1line.txt` to `navi-perl1line-cheatsheet.cheat` and added some comments. Some redundant or alternative Oneliners might have been removed, added or tweaked with (Work in Progress).
 
 The cheatsheet syntax that `navi` requires  is documented [in the navi repo](https://github.com/denisidoro/navi/blob/master/docs/cheatsheet_syntax.md).
 
@@ -32,3 +32,11 @@ In a terminal window, the GUI of `navi` looks like this:
 
 - works for me.
 - **(To be continued)**
+
+## Installation
+
+Roughly, the following steps are required:
+
+- play with [https://cheat.sh](https://cheat.sh), see its [Github repo](https://github.com/chubin/cheat.sh), and perhaps install the command-line-client [cht.sh](https://github.com/chubin/cheat.sh#command-line-client-chtsh)
+- On Linux, install command-line tools `navi` and its dependency `fzf`, the fuzzy-finder
+- Copy the perl1line.cheat file from this repo into navi's cheatsheet directory.
