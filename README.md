@@ -39,4 +39,5 @@ Roughly, the following steps are required:
 
 - play with [https://cheat.sh](https://cheat.sh), see its [Github repo](https://github.com/chubin/cheat.sh), and perhaps install the command-line-client [cht.sh](https://github.com/chubin/cheat.sh#command-line-client-chtsh)
 - On Linux, install command-line tools `navi` and its dependency `fzf`, the fuzzy-finder
+- `git clone` this repo, and switch into branch `navi-cheatsheet`.
 - Copy the perl1line.cheat file from this repo into navi's cheatsheet directory.
