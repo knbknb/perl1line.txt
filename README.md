@@ -22,4 +22,10 @@ There I have renamed `perl1line.txt` to `navi-perl1line-cheatsheet.txt` and adde
 
 ## *Why this fork?*
 
-The file perl1line.txt is already, in the correct format, almost. It just needs some additional special-purpose comments, to give it a topical substructure that `navi` can display in its user interface.
+The file `perl1line.txt` is already in the correct format, *almost*. It just needed some additional special-purpose comments, to give it a topical substructure that `navi` can display in its user interface, opened with `CTRL+G`.
+
+In a terminal window, the GUI of `navi` looks like this:
+
+![Userinterface of navi-cheatsheet](./userinterface--navi-cheatsheet-tool--perl-oneliners.png)
+
+- **(To be continued)**
